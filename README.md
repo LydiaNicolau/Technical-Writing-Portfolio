@@ -1,12 +1,12 @@
 # Technical Writing Portfolio
 
 # Getting To Know Me
-My name is Lydia Nicolau, and I am a newly graduated public and professional writing, computer science, and communication studies major from the University of Rhode Island. I am from West Warwick, Rhode Island, and my favorite place in the state to visit is Narragansett beach. Some things I enjoy doing in my free time are baking, reading, running, and spending time with my friends and family. 
+My name is Lydia Nicolau, and I am a newly graduated professional and public writing, computer science, and communication studies major from the University of Rhode Island. I am from West Warwick, Rhode Island, and my favorite place in the state to visit is Narragansett beach. Some things I enjoy doing in my free time are baking, reading, running, and spending time with my friends and family. 
 
 # Education
 ### The University of Rhode Island
 - Computer Science B.A.
-- Public and Professional Writing B.A.
+- Professional and Public Writing B.A.
 - Communication Studies B.A.
 
 # Work History
